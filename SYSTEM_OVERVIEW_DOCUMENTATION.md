@@ -307,7 +307,6 @@ System Analytics → Reports → Management Dashboards
 - **Employee Weekly Summary**: Individual task contributions and time allocation
 - **Project Progress Reports**: Overall project advancement and team performance
 - **Manager Dashboard Updates**: Team performance metrics and insights
-- **Performance Analytics**: Under/over-performance identification
 - **Resource Utilization**: Allocation efficiency and optimization suggestions
 
 ---
@@ -317,14 +316,11 @@ System Analytics → Reports → Management Dashboards
 ### **Employee Management Efficiency:**
 
 - **Centralized Data**: Single source of truth for all employee information
-- **Automated Imports**: Direct integration with SumHR reduces manual entry
 - **Real-time Updates**: Instant reflection of changes across the system
-- **Skills Tracking**: Comprehensive competency mapping and development tracking
 
 ### **Project Management Efficiency:**
 
 - **Resource Optimization**: Data-driven allocation decisions
-- **Progress Tracking**: Real-time project status and milestone monitoring
 - **Performance Analytics**: Identify bottlenecks and optimization opportunities
 - **Automated Reporting**: Reduce manual reporting overhead
 
@@ -332,7 +328,6 @@ System Analytics → Reports → Management Dashboards
 
 - **Daily Task Tracking**: Granular time allocation and project contribution
 - **Automated Summaries**: AI-generated weekly reports save management time
-- **Historical Analysis**: Trend identification and future planning
 - **Performance Insights**: Data-driven employee development decisions
 
 ### **Operational Efficiency:**
