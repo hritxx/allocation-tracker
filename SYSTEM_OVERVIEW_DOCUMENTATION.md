@@ -156,10 +156,10 @@ System Analytics → Reports → Management Dashboards
 
 ### **Imports into the System:**
 
-- **Employee Master CSV**: Automated parsing and employee creation/updates
-- **Daily Attendance CSV**: Attendance tracking and work duration monitoring
+- **Employee Master CSV**: Automated parsing and employee creation/updates (SUMHR PROVIDES THAT)
+- **Daily Attendance CSV**: Attendance tracking and work duration monitoring (SUMHR PROVIDES THAT)
 - **Bulk Project Data**: CSV-based project and allocation imports
-- **Skills Data**: Employee skills and competency mapping
+- **Skills Data**: Employee skills and competency mapping (SUMHR PROVIDES THAT)
 
 ### **Edits within the System:**
 
